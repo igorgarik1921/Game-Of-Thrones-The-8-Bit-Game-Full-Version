@@ -236,4 +236,4 @@ This repository serves as the official landing page for Game of Thrones: The 8-B
 **Get the most recent version of Game of Thrones: The 8-Bit Game today!**
 
 ---
-**Last updated:** 2026-11-05 21:53:31 UTC
+**Last updated:** 2026-11-06 02:10:37 UTC
